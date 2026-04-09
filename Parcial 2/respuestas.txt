@@ -5,3 +5,6 @@
 5.	String[] listadoPakemon = {"Staryu", "Mew", "Pikachu", "Charmander", "Lapras", "Gyarados"};
 
 8.	Detectaría que hay un conflicto y pediría la revisión manual de los cambios
+
+
+https://github.com/FernandoEstPel/Parcial-2
