@@ -1,0 +1,7 @@
+3.	Hay 4 ramas
+	Es la rama main
+	Es la rama master, con 5 commits
+
+5.	String[] listadoPakemon = {"Staryu", "Mew", "Pikachu", "Charmander", "Lapras", "Gyarados"};
+
+8.	Detectaría que hay un conflicto y pediría la revisión manual de los cambios
